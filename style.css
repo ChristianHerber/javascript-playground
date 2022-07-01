@@ -1,0 +1,8 @@
+.b {
+    padding: 7px 10px;
+    border: 2px solid tomato;
+    background-color: orange;
+    color: #333;
+    border-radius: 15px;
+    cursor: pointer;
+}
